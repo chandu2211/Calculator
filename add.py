@@ -1,3 +1,3 @@
-def add(x, y):
+def add(x, y,z):
   """This function adds two numbers."""
-  return x + y
+  return x + y +z
